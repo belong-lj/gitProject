@@ -5,11 +5,15 @@
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-cart-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-content-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-order-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-pay-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-portal-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-seckill-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-sellergoods-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-shop-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-user-service" />
@@ -21,8 +25,27 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springjms_producer/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/classes" />
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://win-lj/svn/document" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>
