@@ -7,7 +7,7 @@ import java.util.List;
 public interface CartService {
 
 /*
- * 添加商品到购物车
+ * 添加商品到购物车123
 */
     public List<Cart> addGoodsToCartList(List<Cart> cartList,Long itemId,Integer num );
 
